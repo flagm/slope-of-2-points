@@ -1,0 +1,1 @@
+# slope-of-2-points
